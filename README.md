@@ -1,4 +1,4 @@
-### Hi there, I'm Sebastian - aka Skinnek 👋
+### Hi there, I'm Skinnek 👋
 
 - 📚 I’m currently learning everything
 - 🖥️ I'm working on the WarnBot project
@@ -21,12 +21,10 @@
 
 <br />
 
-<img align="left" alt="Skinnek Github Stats" src="https://github-readme-stats.vercel.app/api?username=Skinnek&show_icons=true&hide_border=true">
-
 [youtube]: https://www.youtube.com/channel/UCgOTVbrgAzvSc33_2rVdHHA
 [discord]: https://discord.gg/yAmBFetyUG
 [vscode]: https://code.visualstudio.com
-[js]: wikipedia.org/wiki/JavaScript
+[js]: https://wikipedia.org/wiki/JavaScript
 [node]: https://nodejs.org/en/
 [mongodb]: https://www.mongodb.com
 [github]: https://github.com/Skinnek
